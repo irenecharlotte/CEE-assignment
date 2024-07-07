@@ -33,7 +33,7 @@ Software dependencies needed to run the project:
    - Log in to PostgreSQL.
    - Create a new database: `CREATE DATABASE recs_data;`.
 
-3. **Tables Creation**: Execute the SQL script provided (`create_tables.sql`) to create the necessary tables and populate lookup tables with initial data.
+3. **Tables Creation**: Execute the SQL script provided (`table_name.sql`) to create the necessary tables and populate lookup tables with initial data.
 
 ## Database Schema
 
